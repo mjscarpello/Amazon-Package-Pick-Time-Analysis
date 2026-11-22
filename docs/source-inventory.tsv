@@ -1,0 +1,46 @@
+archive	original_path	repository_path	bytes	sha256
+R scripts	data vis proj 25-26_r_scripts/violin plot.R	analysis/03-visualizations/violin-plot.R	1012	b0804241d639517ad474eb03788822af347938aa0aeec8d8164c8d5882d4616c
+R scripts	data vis proj 25-26_r_scripts/delivery final 1.R	analysis/02-monthly-simulation/delivery-final-1.R	3348	b8e04ec6d0cc1b5b3c2415633ee07355ac0cbc49252894f871a6f7548f065a5d
+R scripts	data vis proj 25-26_r_scripts/Vertical histogramweekly pick times.R	analysis/03-visualizations/vertical-histogramweekly-pick-times.R	5054	e63d3a3120adec50509e19841f5ab8750992ff3c0076508aa26a94a7266bd3e6
+R scripts	data vis proj 25-26_r_scripts/Bag control.R	analysis/02-monthly-simulation/bag-control.R	6763	68b9fa4930fa9c893deb75dd7a21e008ddf5d8d057e087c613f218ca0e005c10
+R scripts	data vis proj 25-26_r_scripts/multi bag picks scatter.R	analysis/03-visualizations/multi-bag-picks-scatter.R	1040	a608af2ccd503ae699f8757d327a449561a9fbb7580f9485500028e4055d7499
+R scripts	data vis proj 25-26_r_scripts/delivery final 2.R	analysis/02-monthly-simulation/delivery-final-2.R	3028	4fa05502baaabb313ea2f55c77095be4a477e7dced3bb1b9a8e1dd2beef2e998
+R scripts	data vis proj 25-26_r_scripts/avg pick times line chart.R	analysis/03-visualizations/avg-pick-times-line-chart.R	465	b60cfb64028785924212888e7d8b2e5115c8646cbb70a10d8cb010b7ca71d4f5
+R scripts	data vis proj 25-26_r_scripts/project data vis vzn3.R	analysis/01-milestones/project-data-vis-vzn3.R	28613	67877d265977c25a34e8e93d82fb7c674a5fd5e9eaef53b17357039eb58bb497
+R scripts	data vis proj 25-26_r_scripts/pie chart datavis proj.R	analysis/03-visualizations/pie-chart-datavis-proj.R	539	f27b688162326ab9d65fa825a9a3e3f36180addae766e6083420b66fe93d220f
+R scripts	data vis proj 25-26_r_scripts/mileston project 1a.R	analysis/01-milestones/mileston-project-1a.R	10257	bdc701fb995a45b6d3df02869584c03fd0f5689c125f3687d1b7139f5ad78e46
+R scripts	data vis proj 25-26_r_scripts/test data compare.R	analysis/04-calibration-exploration/test-data-compare.R	2768	01f06a3a3efdcf84348ac6ef17bad59c00640bae4004ae81740d3a7575493dbd
+R scripts	data vis proj 25-26_r_scripts/data vis project FULL 3.5/violin plot.R	archive/full-3.5/violin-plot.R	1012	b0804241d639517ad474eb03788822af347938aa0aeec8d8164c8d5882d4616c
+R scripts	data vis proj 25-26_r_scripts/data vis project FULL 3.5/delivery final 1.R	archive/full-3.5/delivery-final-1.R	3348	b8e04ec6d0cc1b5b3c2415633ee07355ac0cbc49252894f871a6f7548f065a5d
+R scripts	data vis proj 25-26_r_scripts/data vis project FULL 3.5/Vertical histogramweekly pick times.R	archive/full-3.5/vertical-histogramweekly-pick-times.R	5054	e63d3a3120adec50509e19841f5ab8750992ff3c0076508aa26a94a7266bd3e6
+R scripts	data vis proj 25-26_r_scripts/data vis project FULL 3.5/Bag control.R	archive/full-3.5/bag-control.R	6763	68b9fa4930fa9c893deb75dd7a21e008ddf5d8d057e087c613f218ca0e005c10
+R scripts	data vis proj 25-26_r_scripts/data vis project FULL 3.5/multi bag picks scatter.R	archive/full-3.5/multi-bag-picks-scatter.R	1040	a608af2ccd503ae699f8757d327a449561a9fbb7580f9485500028e4055d7499
+R scripts	data vis proj 25-26_r_scripts/data vis project FULL 3.5/delivery final 2.R	archive/full-3.5/delivery-final-2.R	3027	74f25b0ac93a9c1c9bf9d84ec5503545d5083016d8e1c7f53dd90a026fb75056
+R scripts	data vis proj 25-26_r_scripts/data vis project FULL 3.5/avg pick times line chart.R	archive/full-3.5/avg-pick-times-line-chart.R	464	9dcb70f4f29c6d77b37a93c8ac72e59c33fc344459e8f098985b18e7b578c14d
+R scripts	data vis proj 25-26_r_scripts/data vis project FULL 3.5/pie chart datavis proj.R	archive/full-3.5/pie-chart-datavis-proj.R	539	f27b688162326ab9d65fa825a9a3e3f36180addae766e6083420b66fe93d220f
+R scripts	data vis proj 25-26_r_scripts/data vis project FULL 3.5/test data compare.R	archive/full-3.5/test-data-compare.R	2768	01f06a3a3efdcf84348ac6ef17bad59c00640bae4004ae81740d3a7575493dbd
+Image archive	data vis proj 25-26_images/data vis dashboard draft for amazon project.png	figures/original-exports/data-vis-dashboard-draft-for-amazon-project.png	409985	0d6a9c4664d2f89da50f604e1f86ed9f802a4a651992d21a191770ebd0d53c52
+Image archive	data vis proj 25-26_images/histogram of pick times.png	figures/original-exports/histogram-of-pick-times.png	34828	3be51093befd7a495bde7848f20b9c80e038215b34b753e0bd8518d66ac8c923
+Image archive	data vis proj 25-26_images/month agrgate graph.png	figures/original-exports/month-agrgate-graph.png	234400	596cfec3b41e18677cd172696b7e3068556b32b56f279372dd2834a66ea97b8f
+Image archive	data vis proj 25-26_images/line plot milestone 1a.pdf	figures/milestone-pdf-exports/line-plot-milestone-1a.pdf	6654	2396e8450bddb18c1d2d1693f8c0abac28e362dd712c4a1d7826ba2c2d29a548
+Image archive	data vis proj 25-26_images/multi bag pick times 2.png	figures/original-exports/multi-bag-pick-times-2.png	338742	ceafd76a03a4867a0fc9a374c646308b87482a766c58d8c6cf84b3bc3e8a1f71
+Image archive	data vis proj 25-26_images/Screenshot 2026-03-08 at 11.01.23ΓÇ»PM.png	figures/original-exports/screenshot-2026-03-08-at-11.01.23-pm.png	719861	7d79ce01cdfef01ba84535e2d7ca628c4a78bbc1bacaacb667857ff5a1d99166
+Image archive	data vis proj 25-26_images/Screenshot 2026-03-08 at 11.00.58ΓÇ»PM.png	figures/original-exports/screenshot-2026-03-08-at-11.00.58-pm.png	675549	e9891507fc2a9201c83aa1451acb3e09ee12a3f1f53f5e7e38cff39cf1f5a4a1
+Image archive	data vis proj 25-26_images/day 31 pie chart delivery time txt white.png	figures/original-exports/day-31-pie-chart-delivery-time-txt-white.png	78719	26dbb707c94dba30d942bb4b90130bd93a22f11ba23fcb2e939a75da7e43ac00
+Image archive	data vis proj 25-26_images/mean workflow.png	figures/original-exports/mean-workflow.png	72367	6e3972176999ffb0aca9b55797d3f085369a736b5deda5b6e14a3f9a4946a0a9
+Image archive	data vis proj 25-26_images/updated January pie chart.png	figures/original-exports/updated-january-pie-chart.png	75425	1b6fd3141a10d3eaeb8342e64db257fb0dadabd488b68599dc280ecaf5377020
+Image archive	data vis proj 25-26_images/pie chart of total time spent in month.png	figures/original-exports/pie-chart-of-total-time-spent-in-month.png	57079	249a7fe124f39458ed1a797c24bc0a3437b68fa7c98d8dc33cf99a16feb0a232
+Image archive	data vis proj 25-26_images/multi bag pick times.png	figures/original-exports/multi-bag-pick-times.png	430414	359e5cf35f2aa3bb966f4a203611e3501f6d2a95bc5592bba3951fa88b06b20d
+Image archive	data vis proj 25-26_images/violin plot comparing times of each.png	figures/original-exports/violin-plot-comparing-times-of-each.png	39235	99ba4991580460423f72a8c2e27de69f01e26be0c227632f0806e715bbd8640f
+Image archive	data vis proj 25-26_images/histogram 4 weeks.png	figures/original-exports/histogram-4-weeks.png	147824	77aa07461bed8ce7fc29700445803d4a513833e75b6020b022f10a6ea2f3f74a
+Image archive	data vis proj 25-26_images/Data Vis milestone 1.pdf	figures/milestone-pdf-exports/data-vis-milestone-1.pdf	29964	d6fee96df2429c3ce8245dc7f3205eb139b6bc8dd6127d73f0f1975ae6915b95
+Image archive	data vis proj 25-26_images/day dashboard.png	figures/original-exports/day-dashboard.png	116976	0d148dfede0aef7334564905d62e953c0bcf6f1ceba6d3be7dc5aa77b3105085
+Image archive	data vis proj 25-26_images/clear pick times multi bag 3.png	figures/original-exports/clear-pick-times-multi-bag-3.png	403129	5c2fbd35fe124e2f4a49121487ecd35232bd1a5f15b6b343ffafbdfee2a68d8c
+Image archive	data vis proj 25-26_images/day 31 pie chart delivery time txt white.jpeg	figures/original-exports/day-31-pie-chart-delivery-time-txt-white.jpeg	66080	45db31f3e902aa1120f7d1707ef1a436c54dbb4222dcdc7e5d9012ce54197ca8
+Image archive	data vis proj 25-26_images/month agrgate graph.jpeg	figures/original-exports/month-agrgate-graph.jpeg	193043	60f1c21cbf0111907284521a46b8a4175886b3266e91af9bcd83204953174515
+Image archive	data vis proj 25-26_images/violin plot pick times 2.png	figures/original-exports/violin-plot-pick-times-2.png	511664	dc3fe062642fc1567db0500503c795685c012724ed1ff839fef1ae4ea9856271
+Image archive	data vis proj 25-26_images/pie chart of total time spent in month.jpeg	figures/original-exports/pie-chart-of-total-time-spent-in-month.jpeg	44239	cc92262f2d9616c4d934f131c5adee2621d61423b0d9852845973bea45ae5403
+Image archive	data vis proj 25-26_images/updated 2 January pie chart.png	figures/original-exports/updated-2-january-pie-chart.png	76045	b01434f4f6aa9abf0e4f192ace371d20f99b65fa723d51b104edb05afc3007e2
+Image archive	data vis proj 25-26_images/updated 2 January pie chart.jpeg	figures/original-exports/updated-2-january-pie-chart.jpeg	62140	dce61fea5f329fd10ab9b15e18bc275dc6fd5847a63d12bbd051cd32691084c5
+Image archive	data vis proj 25-26_images/violin plot 1.png	figures/original-exports/violin-plot-1.png	569984	1987d963112c46651d9b0039f4cf47710eaff9bb65500a03576ab0a0a8c705d7
+Image archive	data vis proj 25-26_images/scatter plot milestone 1a.pdf	figures/milestone-pdf-exports/scatter-plot-milestone-1a.pdf	39657	79856a7573f4b657a1e0b5063edda7076f3eefe6d23fc9356ae369bcc5111e1e
